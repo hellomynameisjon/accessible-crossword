@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  accessible-crossword-app:
+    build:
+      context: ./accessible-crossword-app
+      dockerfile: Dockerfile
+    container_name: accessible-crossword-app
+    restart: always
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:80"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+networks:
+  app-network:
+    driver: bridge 

@@ -1,0 +1,2486 @@
+{
+  "id": 22607,
+  "publication_date": "2025-03-03",
+  "clues": [
+    {
+      "id": 0,
+      "text": "Try to delay",
+      "name": "1 Across",
+      "cell_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "complete_answer": "STALL"
+    },
+    {
+      "id": 1,
+      "text": "Transcript figs.",
+      "name": "6 Across",
+      "cell_ids": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "complete_answer": "GPAS"
+    },
+    {
+      "id": 2,
+      "text": "Nickname for Yale attendees",
+      "name": "10 Across",
+      "cell_ids": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "complete_answer": "ELIS"
+    },
+    {
+      "id": 3,
+      "text": "Alphabet quintet",
+      "name": "14 Across",
+      "cell_ids": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "complete_answer": "AEIOU"
+    },
+    {
+      "id": 4,
+      "text": "French or Italian bread?",
+      "name": "15 Across",
+      "cell_ids": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "complete_answer": "EURO"
+    },
+    {
+      "id": 5,
+      "text": "Circus shelter",
+      "name": "16 Across",
+      "cell_ids": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "complete_answer": "TENT"
+    },
+    {
+      "id": 6,
+      "text": "Authority figure in Yellowstone or Grand Teton",
+      "name": "17 Across",
+      "cell_ids": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "complete_answer": "PARKRANGER"
+    },
+    {
+      "id": 7,
+      "text": "Oscar winner Malek",
+      "name": "19 Across",
+      "cell_ids": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "complete_answer": "RAMI"
+    },
+    {
+      "id": 8,
+      "text": "Jigsaw puzzle element",
+      "name": "20 Across",
+      "cell_ids": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "complete_answer": "PIECE"
+    },
+    {
+      "id": 9,
+      "text": "Like the ending of \"Hamlet\" or \"King Lear\"",
+      "name": "21 Across",
+      "cell_ids": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "complete_answer": "TRAGIC"
+    },
+    {
+      "id": 10,
+      "text": "Hair goo",
+      "name": "23 Across",
+      "cell_ids": [
+        60,
+        61,
+        62
+      ],
+      "complete_answer": "GEL"
+    },
+    {
+      "id": 11,
+      "text": "Iconic basketball move of Kobe Bryant",
+      "name": "25 Across",
+      "cell_ids": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "complete_answer": "REVERSEDUNK"
+    },
+    {
+      "id": 12,
+      "text": "\"The ____\" (Tyler Perry series set in the White House)",
+      "name": "28 Across",
+      "cell_ids": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "complete_answer": "OVAL"
+    },
+    {
+      "id": 13,
+      "text": "Emmy winner Edebiri of \"The Bear\"",
+      "name": "30 Across",
+      "cell_ids": [
+        81,
+        82,
+        83
+      ],
+      "complete_answer": "AYO"
+    },
+    {
+      "id": 14,
+      "text": "A strawberry has about 200 of these",
+      "name": "31 Across",
+      "cell_ids": [
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "complete_answer": "SEEDS"
+    },
+    {
+      "id": 15,
+      "text": "Actress Richards of \"The World Is Not Enough\"",
+      "name": "32 Across",
+      "cell_ids": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "complete_answer": "DENISE"
+    },
+    {
+      "id": 16,
+      "text": "Sicilian peak that's a UNESCO World Heritage Site",
+      "name": "35 Across",
+      "cell_ids": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "complete_answer": "ETNA"
+    },
+    {
+      "id": 17,
+      "text": "Hues unlikely to cause clashes",
+      "name": "37 Across",
+      "cell_ids": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "complete_answer": "NEUTRALCOLORS"
+    },
+    {
+      "id": 18,
+      "text": "Slip gently (into)",
+      "name": "42 Across",
+      "cell_ids": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "complete_answer": "EASE"
+    },
+    {
+      "id": 19,
+      "text": "Gobble down",
+      "name": "43 Across",
+      "cell_ids": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "complete_answer": "DEVOUR"
+    },
+    {
+      "id": 20,
+      "text": "Before's opposite",
+      "name": "45 Across",
+      "cell_ids": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "complete_answer": "AFTER"
+    },
+    {
+      "id": 21,
+      "text": "\"Weekend Update\" show, in brief",
+      "name": "49 Across",
+      "cell_ids": [
+        141,
+        142,
+        143
+      ],
+      "complete_answer": "SNL"
+    },
+    {
+      "id": 22,
+      "text": "Thailand's continent",
+      "name": "51 Across",
+      "cell_ids": [
+        146,
+        147,
+        148,
+        149
+      ],
+      "complete_answer": "ASIA"
+    },
+    {
+      "id": 23,
+      "text": "Annoy to a maddening extent",
+      "name": "52 Across",
+      "cell_ids": [
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "complete_answer": "DRIVEINSANE"
+    },
+    {
+      "id": 24,
+      "text": "Place to get cash",
+      "name": "56 Across",
+      "cell_ids": [
+        162,
+        163,
+        164
+      ],
+      "complete_answer": "ATM"
+    },
+    {
+      "id": 25,
+      "text": "AM/FM devices",
+      "name": "57 Across",
+      "cell_ids": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "complete_answer": "RADIOS"
+    },
+    {
+      "id": 26,
+      "text": "Word following time or screen",
+      "name": "58 Across",
+      "cell_ids": [
+        173,
+        174,
+        175,
+        176,
+        177
+      ],
+      "complete_answer": "SAVER"
+    },
+    {
+      "id": 27,
+      "text": "\"Right away, boss!\"",
+      "name": "60 Across",
+      "cell_ids": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "complete_answer": "ONIT"
+    },
+    {
+      "id": 28,
+      "text": "Downer feeling",
+      "name": "61 Across",
+      "cell_ids": [
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "complete_answer": "LOWSPIRITS"
+    },
+    {
+      "id": 29,
+      "text": "Drink with a polar bear mascot",
+      "name": "66 Across",
+      "cell_ids": [
+        195,
+        196,
+        197,
+        198
+      ],
+      "complete_answer": "ICEE"
+    },
+    {
+      "id": 30,
+      "text": "Antioxidant-rich berry",
+      "name": "67 Across",
+      "cell_ids": [
+        200,
+        201,
+        202,
+        203
+      ],
+      "complete_answer": "ACAI"
+    },
+    {
+      "id": 31,
+      "text": "Soccer shoe attachment",
+      "name": "68 Across",
+      "cell_ids": [
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "complete_answer": "CLEAT"
+    },
+    {
+      "id": 32,
+      "text": "\"___ of the D'Urbervilles\" (Thomas Hardy novel)",
+      "name": "69 Across",
+      "cell_ids": [
+        210,
+        211,
+        212,
+        213
+      ],
+      "complete_answer": "TESS"
+    },
+    {
+      "id": 33,
+      "text": "Ocular woe",
+      "name": "70 Across",
+      "cell_ids": [
+        215,
+        216,
+        217,
+        218
+      ],
+      "complete_answer": "STYE"
+    },
+    {
+      "id": 34,
+      "text": "Easily annoyed",
+      "name": "71 Across",
+      "cell_ids": [
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "complete_answer": "TESTY"
+    },
+    {
+      "id": 35,
+      "text": "Sticky tree stuff",
+      "name": "1 Down",
+      "cell_ids": [
+        0,
+        15,
+        30
+      ],
+      "complete_answer": "SAP"
+    },
+    {
+      "id": 36,
+      "text": "Long Island iced ___",
+      "name": "2 Down",
+      "cell_ids": [
+        1,
+        16,
+        31
+      ],
+      "complete_answer": "TEA"
+    },
+    {
+      "id": 37,
+      "text": "1980 disaster comedy film with an exclamation point in its title",
+      "name": "3 Down",
+      "cell_ids": [
+        2,
+        17,
+        32,
+        47,
+        62,
+        77,
+        92,
+        107
+      ],
+      "complete_answer": "AIRPLANE"
+    },
+    {
+      "id": 38,
+      "text": "Trickster in Norse myth",
+      "name": "4 Down",
+      "cell_ids": [
+        3,
+        18,
+        33,
+        48
+      ],
+      "complete_answer": "LOKI"
+    },
+    {
+      "id": 39,
+      "text": "Enticing one",
+      "name": "5 Down",
+      "cell_ids": [
+        4,
+        19,
+        34,
+        49,
+        64
+      ],
+      "complete_answer": "LURER"
+    },
+    {
+      "id": 40,
+      "text": "Swiss city famous for hosting peace conferences",
+      "name": "6 Down",
+      "cell_ids": [
+        6,
+        21,
+        36,
+        51,
+        66,
+        81
+      ],
+      "complete_answer": "GENEVA"
+    },
+    {
+      "id": 41,
+      "text": "Curly-tailed dog",
+      "name": "7 Down",
+      "cell_ids": [
+        7,
+        22,
+        37
+      ],
+      "complete_answer": "PUG"
+    },
+    {
+      "id": 42,
+      "text": "Exist",
+      "name": "8 Down",
+      "cell_ids": [
+        8,
+        23,
+        38
+      ],
+      "complete_answer": "ARE"
+    },
+    {
+      "id": 43,
+      "text": "Categorizes, as laundry",
+      "name": "9 Down",
+      "cell_ids": [
+        9,
+        24,
+        39,
+        54,
+        69
+      ],
+      "complete_answer": "SORTS"
+    },
+    {
+      "id": 44,
+      "text": "Online investment brokerage",
+      "name": "10 Down",
+      "cell_ids": [
+        11,
+        26,
+        41,
+        56,
+        71,
+        86
+      ],
+      "complete_answer": "ETRADE"
+    },
+    {
+      "id": 45,
+      "text": "The \"L\" of N.F.L.",
+      "name": "11 Down",
+      "cell_ids": [
+        12,
+        27,
+        42,
+        57,
+        72,
+        87
+      ],
+      "complete_answer": "LEAGUE"
+    },
+    {
+      "id": 46,
+      "text": "Thought of and considered",
+      "name": "12 Down",
+      "cell_ids": [
+        13,
+        28,
+        43,
+        58,
+        73,
+        88
+      ],
+      "complete_answer": "INMIND"
+    },
+    {
+      "id": 47,
+      "text": "Units of dynamite",
+      "name": "13 Down",
+      "cell_ids": [
+        14,
+        29,
+        44,
+        59,
+        74,
+        89
+      ],
+      "complete_answer": "STICKS"
+    },
+    {
+      "id": 48,
+      "text": "Super serve",
+      "name": "18 Down",
+      "cell_ids": [
+        35,
+        50,
+        65
+      ],
+      "complete_answer": "ACE"
+    },
+    {
+      "id": 49,
+      "text": "Flea market deal",
+      "name": "22 Down",
+      "cell_ids": [
+        55,
+        70,
+        85,
+        100,
+        115,
+        130
+      ],
+      "complete_answer": "RESALE"
+    },
+    {
+      "id": 50,
+      "text": "Supreme being",
+      "name": "23 Down",
+      "cell_ids": [
+        60,
+        75,
+        90
+      ],
+      "complete_answer": "GOD"
+    },
+    {
+      "id": 51,
+      "text": "Balanced",
+      "name": "24 Down",
+      "cell_ids": [
+        61,
+        76,
+        91,
+        106
+      ],
+      "complete_answer": "EVEN"
+    },
+    {
+      "id": 52,
+      "text": "Part of a microscope or telescope",
+      "name": "26 Down",
+      "cell_ids": [
+        67,
+        82,
+        97,
+        112,
+        127,
+        142,
+        157
+      ],
+      "complete_answer": "EYELENS"
+    },
+    {
+      "id": 53,
+      "text": "Campus military program, for short",
+      "name": "27 Down",
+      "cell_ids": [
+        68,
+        83,
+        98,
+        113
+      ],
+      "complete_answer": "ROTC"
+    },
+    {
+      "id": 54,
+      "text": "Lucy of \"Kill Bill\"",
+      "name": "29 Down",
+      "cell_ids": [
+        78,
+        93,
+        108
+      ],
+      "complete_answer": "LIU"
+    },
+    {
+      "id": 55,
+      "text": "Music player",
+      "name": "33 Down",
+      "cell_ids": [
+        94,
+        109,
+        124,
+        139,
+        154,
+        169
+      ],
+      "complete_answer": "STEREO"
+    },
+    {
+      "id": 56,
+      "text": "The Roaring Twenties, for one",
+      "name": "34 Down",
+      "cell_ids": [
+        95,
+        110,
+        125
+      ],
+      "complete_answer": "ERA"
+    },
+    {
+      "id": 57,
+      "text": "Say yes without words",
+      "name": "36 Down",
+      "cell_ids": [
+        99,
+        114,
+        129
+      ],
+      "complete_answer": "NOD"
+    },
+    {
+      "id": 58,
+      "text": "Professional org.",
+      "name": "38 Down",
+      "cell_ids": [
+        111,
+        126,
+        141,
+        156
+      ],
+      "complete_answer": "ASSN"
+    },
+    {
+      "id": 59,
+      "text": "Eggs, in ancient Rome",
+      "name": "39 Down",
+      "cell_ids": [
+        116,
+        131,
+        146
+      ],
+      "complete_answer": "OVA"
+    },
+    {
+      "id": 60,
+      "text": "Prayer beads",
+      "name": "40 Down",
+      "cell_ids": [
+        117,
+        132,
+        147,
+        162,
+        177,
+        192,
+        207,
+        222
+      ],
+      "complete_answer": "ROSARIES"
+    },
+    {
+      "id": 61,
+      "text": "Spades or diamonds",
+      "name": "41 Down",
+      "cell_ids": [
+        118,
+        133,
+        148,
+        163
+      ],
+      "complete_answer": "SUIT"
+    },
+    {
+      "id": 62,
+      "text": "Head-butt",
+      "name": "44 Down",
+      "cell_ids": [
+        134,
+        149,
+        164
+      ],
+      "complete_answer": "RAM"
+    },
+    {
+      "id": 63,
+      "text": "Dexterous",
+      "name": "45 Down",
+      "cell_ids": [
+        135,
+        150,
+        165,
+        180,
+        195,
+        210
+      ],
+      "complete_answer": "ADROIT"
+    },
+    {
+      "id": 64,
+      "text": "Land of Napoleon",
+      "name": "46 Down",
+      "cell_ids": [
+        136,
+        151,
+        166,
+        181,
+        196,
+        211
+      ],
+      "complete_answer": "FRANCE"
+    },
+    {
+      "id": 65,
+      "text": "Neatens up",
+      "name": "47 Down",
+      "cell_ids": [
+        137,
+        152,
+        167,
+        182,
+        197,
+        212
+      ],
+      "complete_answer": "TIDIES"
+    },
+    {
+      "id": 66,
+      "text": "Digital party announcements",
+      "name": "48 Down",
+      "cell_ids": [
+        138,
+        153,
+        168,
+        183,
+        198,
+        213
+      ],
+      "complete_answer": "EVITES"
+    },
+    {
+      "id": 67,
+      "text": "Timmy's dog on 1950s TV",
+      "name": "50 Down",
+      "cell_ids": [
+        143,
+        158,
+        173,
+        188,
+        203,
+        218
+      ],
+      "complete_answer": "LASSIE"
+    },
+    {
+      "id": 68,
+      "text": "Cuba y Puerto Rico",
+      "name": "53 Down",
+      "cell_ids": [
+        155,
+        170,
+        185,
+        200,
+        215
+      ],
+      "complete_answer": "ISLAS"
+    },
+    {
+      "id": 69,
+      "text": "40 winks",
+      "name": "54 Down",
+      "cell_ids": [
+        159,
+        174,
+        189
+      ],
+      "complete_answer": "NAP"
+    },
+    {
+      "id": 70,
+      "text": "Oust, as a tenant",
+      "name": "55 Down",
+      "cell_ids": [
+        160,
+        175,
+        190,
+        205,
+        220
+      ],
+      "complete_answer": "EVICT"
+    },
+    {
+      "id": 71,
+      "text": "Author and lawyer ____ Stanley Gardner",
+      "name": "59 Down",
+      "cell_ids": [
+        176,
+        191,
+        206,
+        221
+      ],
+      "complete_answer": "ERLE"
+    },
+    {
+      "id": 72,
+      "text": "10th mo.",
+      "name": "62 Down",
+      "cell_ids": [
+        186,
+        201,
+        216
+      ],
+      "complete_answer": "OCT"
+    },
+    {
+      "id": 73,
+      "text": "Tactic",
+      "name": "63 Down",
+      "cell_ids": [
+        187,
+        202,
+        217
+      ],
+      "complete_answer": "WAY"
+    },
+    {
+      "id": 74,
+      "text": "Bit of body art, in brief",
+      "name": "64 Down",
+      "cell_ids": [
+        193,
+        208,
+        223
+      ],
+      "complete_answer": "TAT"
+    },
+    {
+      "id": 75,
+      "text": "Porcine habitat",
+      "name": "65 Down",
+      "cell_ids": [
+        194,
+        209,
+        224
+      ],
+      "complete_answer": "STY"
+    }
+  ],
+  "cells": {
+    "0": {
+      "id": 0,
+      "answer": "S",
+      "clue_location_ids": [
+        0,
+        35
+      ]
+    },
+    "1": {
+      "id": 1,
+      "answer": "T",
+      "clue_location_ids": [
+        0,
+        36
+      ]
+    },
+    "2": {
+      "id": 2,
+      "answer": "A",
+      "clue_location_ids": [
+        0,
+        37
+      ]
+    },
+    "3": {
+      "id": 3,
+      "answer": "L",
+      "clue_location_ids": [
+        0,
+        38
+      ]
+    },
+    "4": {
+      "id": 4,
+      "answer": "L",
+      "clue_location_ids": [
+        0,
+        39
+      ]
+    },
+    "6": {
+      "id": 6,
+      "answer": "G",
+      "clue_location_ids": [
+        1,
+        40
+      ]
+    },
+    "7": {
+      "id": 7,
+      "answer": "P",
+      "clue_location_ids": [
+        1,
+        41
+      ]
+    },
+    "8": {
+      "id": 8,
+      "answer": "A",
+      "clue_location_ids": [
+        1,
+        42
+      ]
+    },
+    "9": {
+      "id": 9,
+      "answer": "S",
+      "clue_location_ids": [
+        1,
+        43
+      ]
+    },
+    "11": {
+      "id": 11,
+      "answer": "E",
+      "clue_location_ids": [
+        2,
+        44
+      ]
+    },
+    "12": {
+      "id": 12,
+      "answer": "L",
+      "clue_location_ids": [
+        2,
+        45
+      ]
+    },
+    "13": {
+      "id": 13,
+      "answer": "I",
+      "clue_location_ids": [
+        2,
+        46
+      ]
+    },
+    "14": {
+      "id": 14,
+      "answer": "S",
+      "clue_location_ids": [
+        2,
+        47
+      ]
+    },
+    "15": {
+      "id": 15,
+      "answer": "A",
+      "clue_location_ids": [
+        3,
+        35
+      ]
+    },
+    "16": {
+      "id": 16,
+      "answer": "E",
+      "clue_location_ids": [
+        3,
+        36
+      ]
+    },
+    "17": {
+      "id": 17,
+      "answer": "I",
+      "clue_location_ids": [
+        3,
+        37
+      ]
+    },
+    "18": {
+      "id": 18,
+      "answer": "O",
+      "clue_location_ids": [
+        3,
+        38
+      ]
+    },
+    "19": {
+      "id": 19,
+      "answer": "U",
+      "clue_location_ids": [
+        3,
+        39
+      ]
+    },
+    "21": {
+      "id": 21,
+      "answer": "E",
+      "clue_location_ids": [
+        4,
+        40
+      ]
+    },
+    "22": {
+      "id": 22,
+      "answer": "U",
+      "clue_location_ids": [
+        4,
+        41
+      ]
+    },
+    "23": {
+      "id": 23,
+      "answer": "R",
+      "clue_location_ids": [
+        4,
+        42
+      ]
+    },
+    "24": {
+      "id": 24,
+      "answer": "O",
+      "clue_location_ids": [
+        4,
+        43
+      ]
+    },
+    "26": {
+      "id": 26,
+      "answer": "T",
+      "clue_location_ids": [
+        5,
+        44
+      ]
+    },
+    "27": {
+      "id": 27,
+      "answer": "E",
+      "clue_location_ids": [
+        5,
+        45
+      ]
+    },
+    "28": {
+      "id": 28,
+      "answer": "N",
+      "clue_location_ids": [
+        5,
+        46
+      ]
+    },
+    "29": {
+      "id": 29,
+      "answer": "T",
+      "clue_location_ids": [
+        5,
+        47
+      ]
+    },
+    "30": {
+      "id": 30,
+      "answer": "P",
+      "clue_location_ids": [
+        6,
+        35
+      ]
+    },
+    "31": {
+      "id": 31,
+      "answer": "A",
+      "clue_location_ids": [
+        6,
+        36
+      ]
+    },
+    "32": {
+      "id": 32,
+      "answer": "R",
+      "clue_location_ids": [
+        6,
+        37
+      ]
+    },
+    "33": {
+      "id": 33,
+      "answer": "K",
+      "clue_location_ids": [
+        6,
+        38
+      ]
+    },
+    "34": {
+      "id": 34,
+      "answer": "R",
+      "clue_location_ids": [
+        6,
+        39
+      ]
+    },
+    "35": {
+      "id": 35,
+      "answer": "A",
+      "clue_location_ids": [
+        6,
+        48
+      ]
+    },
+    "36": {
+      "id": 36,
+      "answer": "N",
+      "clue_location_ids": [
+        6,
+        40
+      ]
+    },
+    "37": {
+      "id": 37,
+      "answer": "G",
+      "clue_location_ids": [
+        6,
+        41
+      ]
+    },
+    "38": {
+      "id": 38,
+      "answer": "E",
+      "clue_location_ids": [
+        6,
+        42
+      ]
+    },
+    "39": {
+      "id": 39,
+      "answer": "R",
+      "clue_location_ids": [
+        6,
+        43
+      ]
+    },
+    "41": {
+      "id": 41,
+      "answer": "R",
+      "clue_location_ids": [
+        7,
+        44
+      ]
+    },
+    "42": {
+      "id": 42,
+      "answer": "A",
+      "clue_location_ids": [
+        7,
+        45
+      ]
+    },
+    "43": {
+      "id": 43,
+      "answer": "M",
+      "clue_location_ids": [
+        7,
+        46
+      ]
+    },
+    "44": {
+      "id": 44,
+      "answer": "I",
+      "clue_location_ids": [
+        7,
+        47
+      ]
+    },
+    "47": {
+      "id": 47,
+      "answer": "P",
+      "clue_location_ids": [
+        8,
+        37
+      ]
+    },
+    "48": {
+      "id": 48,
+      "answer": "I",
+      "clue_location_ids": [
+        8,
+        38
+      ]
+    },
+    "49": {
+      "id": 49,
+      "answer": "E",
+      "clue_location_ids": [
+        8,
+        39
+      ]
+    },
+    "50": {
+      "id": 50,
+      "answer": "C",
+      "clue_location_ids": [
+        8,
+        48
+      ]
+    },
+    "51": {
+      "id": 51,
+      "answer": "E",
+      "clue_location_ids": [
+        8,
+        40
+      ]
+    },
+    "54": {
+      "id": 54,
+      "answer": "T",
+      "clue_location_ids": [
+        9,
+        43
+      ]
+    },
+    "55": {
+      "id": 55,
+      "answer": "R",
+      "clue_location_ids": [
+        9,
+        49
+      ]
+    },
+    "56": {
+      "id": 56,
+      "answer": "A",
+      "clue_location_ids": [
+        9,
+        44
+      ]
+    },
+    "57": {
+      "id": 57,
+      "answer": "G",
+      "clue_location_ids": [
+        9,
+        45
+      ]
+    },
+    "58": {
+      "id": 58,
+      "answer": "I",
+      "clue_location_ids": [
+        9,
+        46
+      ]
+    },
+    "59": {
+      "id": 59,
+      "answer": "C",
+      "clue_location_ids": [
+        9,
+        47
+      ]
+    },
+    "60": {
+      "id": 60,
+      "answer": "G",
+      "clue_location_ids": [
+        10,
+        50
+      ]
+    },
+    "61": {
+      "id": 61,
+      "answer": "E",
+      "clue_location_ids": [
+        10,
+        51
+      ]
+    },
+    "62": {
+      "id": 62,
+      "answer": "L",
+      "clue_location_ids": [
+        10,
+        37
+      ]
+    },
+    "64": {
+      "id": 64,
+      "answer": "R",
+      "clue_location_ids": [
+        11,
+        39
+      ]
+    },
+    "65": {
+      "id": 65,
+      "answer": "E",
+      "clue_location_ids": [
+        11,
+        48
+      ]
+    },
+    "66": {
+      "id": 66,
+      "answer": "V",
+      "clue_location_ids": [
+        11,
+        40
+      ]
+    },
+    "67": {
+      "id": 67,
+      "answer": "E",
+      "clue_location_ids": [
+        11,
+        52
+      ]
+    },
+    "68": {
+      "id": 68,
+      "answer": "R",
+      "clue_location_ids": [
+        11,
+        53
+      ]
+    },
+    "69": {
+      "id": 69,
+      "answer": "S",
+      "clue_location_ids": [
+        11,
+        43
+      ]
+    },
+    "70": {
+      "id": 70,
+      "answer": "E",
+      "clue_location_ids": [
+        11,
+        49
+      ]
+    },
+    "71": {
+      "id": 71,
+      "answer": "D",
+      "clue_location_ids": [
+        11,
+        44
+      ]
+    },
+    "72": {
+      "id": 72,
+      "answer": "U",
+      "clue_location_ids": [
+        11,
+        45
+      ]
+    },
+    "73": {
+      "id": 73,
+      "answer": "N",
+      "clue_location_ids": [
+        11,
+        46
+      ]
+    },
+    "74": {
+      "id": 74,
+      "answer": "K",
+      "clue_location_ids": [
+        11,
+        47
+      ]
+    },
+    "75": {
+      "id": 75,
+      "answer": "O",
+      "clue_location_ids": [
+        12,
+        50
+      ]
+    },
+    "76": {
+      "id": 76,
+      "answer": "V",
+      "clue_location_ids": [
+        12,
+        51
+      ]
+    },
+    "77": {
+      "id": 77,
+      "answer": "A",
+      "clue_location_ids": [
+        12,
+        37
+      ]
+    },
+    "78": {
+      "id": 78,
+      "answer": "L",
+      "clue_location_ids": [
+        12,
+        54
+      ]
+    },
+    "81": {
+      "id": 81,
+      "answer": "A",
+      "clue_location_ids": [
+        13,
+        40
+      ]
+    },
+    "82": {
+      "id": 82,
+      "answer": "Y",
+      "clue_location_ids": [
+        13,
+        52
+      ]
+    },
+    "83": {
+      "id": 83,
+      "answer": "O",
+      "clue_location_ids": [
+        13,
+        53
+      ]
+    },
+    "85": {
+      "id": 85,
+      "answer": "S",
+      "clue_location_ids": [
+        14,
+        49
+      ]
+    },
+    "86": {
+      "id": 86,
+      "answer": "E",
+      "clue_location_ids": [
+        14,
+        44
+      ]
+    },
+    "87": {
+      "id": 87,
+      "answer": "E",
+      "clue_location_ids": [
+        14,
+        45
+      ]
+    },
+    "88": {
+      "id": 88,
+      "answer": "D",
+      "clue_location_ids": [
+        14,
+        46
+      ]
+    },
+    "89": {
+      "id": 89,
+      "answer": "S",
+      "clue_location_ids": [
+        14,
+        47
+      ]
+    },
+    "90": {
+      "id": 90,
+      "answer": "D",
+      "clue_location_ids": [
+        15,
+        50
+      ]
+    },
+    "91": {
+      "id": 91,
+      "answer": "E",
+      "clue_location_ids": [
+        15,
+        51
+      ]
+    },
+    "92": {
+      "id": 92,
+      "answer": "N",
+      "clue_location_ids": [
+        15,
+        37
+      ]
+    },
+    "93": {
+      "id": 93,
+      "answer": "I",
+      "clue_location_ids": [
+        15,
+        54
+      ]
+    },
+    "94": {
+      "id": 94,
+      "answer": "S",
+      "clue_location_ids": [
+        15,
+        55
+      ]
+    },
+    "95": {
+      "id": 95,
+      "answer": "E",
+      "clue_location_ids": [
+        15,
+        56
+      ]
+    },
+    "97": {
+      "id": 97,
+      "answer": "E",
+      "clue_location_ids": [
+        16,
+        52
+      ]
+    },
+    "98": {
+      "id": 98,
+      "answer": "T",
+      "clue_location_ids": [
+        16,
+        53
+      ]
+    },
+    "99": {
+      "id": 99,
+      "answer": "N",
+      "clue_location_ids": [
+        16,
+        57
+      ]
+    },
+    "100": {
+      "id": 100,
+      "answer": "A",
+      "clue_location_ids": [
+        16,
+        49
+      ]
+    },
+    "106": {
+      "id": 106,
+      "answer": "N",
+      "clue_location_ids": [
+        17,
+        51
+      ]
+    },
+    "107": {
+      "id": 107,
+      "answer": "E",
+      "clue_location_ids": [
+        17,
+        37
+      ]
+    },
+    "108": {
+      "id": 108,
+      "answer": "U",
+      "clue_location_ids": [
+        17,
+        54
+      ]
+    },
+    "109": {
+      "id": 109,
+      "answer": "T",
+      "clue_location_ids": [
+        17,
+        55
+      ]
+    },
+    "110": {
+      "id": 110,
+      "answer": "R",
+      "clue_location_ids": [
+        17,
+        56
+      ]
+    },
+    "111": {
+      "id": 111,
+      "answer": "A",
+      "clue_location_ids": [
+        17,
+        58
+      ]
+    },
+    "112": {
+      "id": 112,
+      "answer": "L",
+      "clue_location_ids": [
+        17,
+        52
+      ]
+    },
+    "113": {
+      "id": 113,
+      "answer": "C",
+      "clue_location_ids": [
+        17,
+        53
+      ]
+    },
+    "114": {
+      "id": 114,
+      "answer": "O",
+      "clue_location_ids": [
+        17,
+        57
+      ]
+    },
+    "115": {
+      "id": 115,
+      "answer": "L",
+      "clue_location_ids": [
+        17,
+        49
+      ]
+    },
+    "116": {
+      "id": 116,
+      "answer": "O",
+      "clue_location_ids": [
+        17,
+        59
+      ]
+    },
+    "117": {
+      "id": 117,
+      "answer": "R",
+      "clue_location_ids": [
+        17,
+        60
+      ]
+    },
+    "118": {
+      "id": 118,
+      "answer": "S",
+      "clue_location_ids": [
+        17,
+        61
+      ]
+    },
+    "124": {
+      "id": 124,
+      "answer": "E",
+      "clue_location_ids": [
+        18,
+        55
+      ]
+    },
+    "125": {
+      "id": 125,
+      "answer": "A",
+      "clue_location_ids": [
+        18,
+        56
+      ]
+    },
+    "126": {
+      "id": 126,
+      "answer": "S",
+      "clue_location_ids": [
+        18,
+        58
+      ]
+    },
+    "127": {
+      "id": 127,
+      "answer": "E",
+      "clue_location_ids": [
+        18,
+        52
+      ]
+    },
+    "129": {
+      "id": 129,
+      "answer": "D",
+      "clue_location_ids": [
+        19,
+        57
+      ]
+    },
+    "130": {
+      "id": 130,
+      "answer": "E",
+      "clue_location_ids": [
+        19,
+        49
+      ]
+    },
+    "131": {
+      "id": 131,
+      "answer": "V",
+      "clue_location_ids": [
+        19,
+        59
+      ]
+    },
+    "132": {
+      "id": 132,
+      "answer": "O",
+      "clue_location_ids": [
+        19,
+        60
+      ]
+    },
+    "133": {
+      "id": 133,
+      "answer": "U",
+      "clue_location_ids": [
+        19,
+        61
+      ]
+    },
+    "134": {
+      "id": 134,
+      "answer": "R",
+      "clue_location_ids": [
+        19,
+        62
+      ]
+    },
+    "135": {
+      "id": 135,
+      "answer": "A",
+      "clue_location_ids": [
+        20,
+        63
+      ]
+    },
+    "136": {
+      "id": 136,
+      "answer": "F",
+      "clue_location_ids": [
+        20,
+        64
+      ]
+    },
+    "137": {
+      "id": 137,
+      "answer": "T",
+      "clue_location_ids": [
+        20,
+        65
+      ]
+    },
+    "138": {
+      "id": 138,
+      "answer": "E",
+      "clue_location_ids": [
+        20,
+        66
+      ]
+    },
+    "139": {
+      "id": 139,
+      "answer": "R",
+      "clue_location_ids": [
+        20,
+        55
+      ]
+    },
+    "141": {
+      "id": 141,
+      "answer": "S",
+      "clue_location_ids": [
+        21,
+        58
+      ]
+    },
+    "142": {
+      "id": 142,
+      "answer": "N",
+      "clue_location_ids": [
+        21,
+        52
+      ]
+    },
+    "143": {
+      "id": 143,
+      "answer": "L",
+      "clue_location_ids": [
+        21,
+        67
+      ]
+    },
+    "146": {
+      "id": 146,
+      "answer": "A",
+      "clue_location_ids": [
+        22,
+        59
+      ]
+    },
+    "147": {
+      "id": 147,
+      "answer": "S",
+      "clue_location_ids": [
+        22,
+        60
+      ]
+    },
+    "148": {
+      "id": 148,
+      "answer": "I",
+      "clue_location_ids": [
+        22,
+        61
+      ]
+    },
+    "149": {
+      "id": 149,
+      "answer": "A",
+      "clue_location_ids": [
+        22,
+        62
+      ]
+    },
+    "150": {
+      "id": 150,
+      "answer": "D",
+      "clue_location_ids": [
+        23,
+        63
+      ]
+    },
+    "151": {
+      "id": 151,
+      "answer": "R",
+      "clue_location_ids": [
+        23,
+        64
+      ]
+    },
+    "152": {
+      "id": 152,
+      "answer": "I",
+      "clue_location_ids": [
+        23,
+        65
+      ]
+    },
+    "153": {
+      "id": 153,
+      "answer": "V",
+      "clue_location_ids": [
+        23,
+        66
+      ]
+    },
+    "154": {
+      "id": 154,
+      "answer": "E",
+      "clue_location_ids": [
+        23,
+        55
+      ]
+    },
+    "155": {
+      "id": 155,
+      "answer": "I",
+      "clue_location_ids": [
+        23,
+        68
+      ]
+    },
+    "156": {
+      "id": 156,
+      "answer": "N",
+      "clue_location_ids": [
+        23,
+        58
+      ]
+    },
+    "157": {
+      "id": 157,
+      "answer": "S",
+      "clue_location_ids": [
+        23,
+        52
+      ]
+    },
+    "158": {
+      "id": 158,
+      "answer": "A",
+      "clue_location_ids": [
+        23,
+        67
+      ]
+    },
+    "159": {
+      "id": 159,
+      "answer": "N",
+      "clue_location_ids": [
+        23,
+        69
+      ]
+    },
+    "160": {
+      "id": 160,
+      "answer": "E",
+      "clue_location_ids": [
+        23,
+        70
+      ]
+    },
+    "162": {
+      "id": 162,
+      "answer": "A",
+      "clue_location_ids": [
+        24,
+        60
+      ]
+    },
+    "163": {
+      "id": 163,
+      "answer": "T",
+      "clue_location_ids": [
+        24,
+        61
+      ]
+    },
+    "164": {
+      "id": 164,
+      "answer": "M",
+      "clue_location_ids": [
+        24,
+        62
+      ]
+    },
+    "165": {
+      "id": 165,
+      "answer": "R",
+      "clue_location_ids": [
+        25,
+        63
+      ]
+    },
+    "166": {
+      "id": 166,
+      "answer": "A",
+      "clue_location_ids": [
+        25,
+        64
+      ]
+    },
+    "167": {
+      "id": 167,
+      "answer": "D",
+      "clue_location_ids": [
+        25,
+        65
+      ]
+    },
+    "168": {
+      "id": 168,
+      "answer": "I",
+      "clue_location_ids": [
+        25,
+        66
+      ]
+    },
+    "169": {
+      "id": 169,
+      "answer": "O",
+      "clue_location_ids": [
+        25,
+        55
+      ]
+    },
+    "170": {
+      "id": 170,
+      "answer": "S",
+      "clue_location_ids": [
+        25,
+        68
+      ]
+    },
+    "173": {
+      "id": 173,
+      "answer": "S",
+      "clue_location_ids": [
+        26,
+        67
+      ]
+    },
+    "174": {
+      "id": 174,
+      "answer": "A",
+      "clue_location_ids": [
+        26,
+        69
+      ]
+    },
+    "175": {
+      "id": 175,
+      "answer": "V",
+      "clue_location_ids": [
+        26,
+        70
+      ]
+    },
+    "176": {
+      "id": 176,
+      "answer": "E",
+      "clue_location_ids": [
+        26,
+        71
+      ]
+    },
+    "177": {
+      "id": 177,
+      "answer": "R",
+      "clue_location_ids": [
+        26,
+        60
+      ]
+    },
+    "180": {
+      "id": 180,
+      "answer": "O",
+      "clue_location_ids": [
+        27,
+        63
+      ]
+    },
+    "181": {
+      "id": 181,
+      "answer": "N",
+      "clue_location_ids": [
+        27,
+        64
+      ]
+    },
+    "182": {
+      "id": 182,
+      "answer": "I",
+      "clue_location_ids": [
+        27,
+        65
+      ]
+    },
+    "183": {
+      "id": 183,
+      "answer": "T",
+      "clue_location_ids": [
+        27,
+        66
+      ]
+    },
+    "185": {
+      "id": 185,
+      "answer": "L",
+      "clue_location_ids": [
+        28,
+        68
+      ]
+    },
+    "186": {
+      "id": 186,
+      "answer": "O",
+      "clue_location_ids": [
+        28,
+        72
+      ]
+    },
+    "187": {
+      "id": 187,
+      "answer": "W",
+      "clue_location_ids": [
+        28,
+        73
+      ]
+    },
+    "188": {
+      "id": 188,
+      "answer": "S",
+      "clue_location_ids": [
+        28,
+        67
+      ]
+    },
+    "189": {
+      "id": 189,
+      "answer": "P",
+      "clue_location_ids": [
+        28,
+        69
+      ]
+    },
+    "190": {
+      "id": 190,
+      "answer": "I",
+      "clue_location_ids": [
+        28,
+        70
+      ]
+    },
+    "191": {
+      "id": 191,
+      "answer": "R",
+      "clue_location_ids": [
+        28,
+        71
+      ]
+    },
+    "192": {
+      "id": 192,
+      "answer": "I",
+      "clue_location_ids": [
+        28,
+        60
+      ]
+    },
+    "193": {
+      "id": 193,
+      "answer": "T",
+      "clue_location_ids": [
+        28,
+        74
+      ]
+    },
+    "194": {
+      "id": 194,
+      "answer": "S",
+      "clue_location_ids": [
+        28,
+        75
+      ]
+    },
+    "195": {
+      "id": 195,
+      "answer": "I",
+      "clue_location_ids": [
+        29,
+        63
+      ]
+    },
+    "196": {
+      "id": 196,
+      "answer": "C",
+      "clue_location_ids": [
+        29,
+        64
+      ]
+    },
+    "197": {
+      "id": 197,
+      "answer": "E",
+      "clue_location_ids": [
+        29,
+        65
+      ]
+    },
+    "198": {
+      "id": 198,
+      "answer": "E",
+      "clue_location_ids": [
+        29,
+        66
+      ]
+    },
+    "200": {
+      "id": 200,
+      "answer": "A",
+      "clue_location_ids": [
+        30,
+        68
+      ]
+    },
+    "201": {
+      "id": 201,
+      "answer": "C",
+      "clue_location_ids": [
+        30,
+        72
+      ]
+    },
+    "202": {
+      "id": 202,
+      "answer": "A",
+      "clue_location_ids": [
+        30,
+        73
+      ]
+    },
+    "203": {
+      "id": 203,
+      "answer": "I",
+      "clue_location_ids": [
+        30,
+        67
+      ]
+    },
+    "205": {
+      "id": 205,
+      "answer": "C",
+      "clue_location_ids": [
+        31,
+        70
+      ]
+    },
+    "206": {
+      "id": 206,
+      "answer": "L",
+      "clue_location_ids": [
+        31,
+        71
+      ]
+    },
+    "207": {
+      "id": 207,
+      "answer": "E",
+      "clue_location_ids": [
+        31,
+        60
+      ]
+    },
+    "208": {
+      "id": 208,
+      "answer": "A",
+      "clue_location_ids": [
+        31,
+        74
+      ]
+    },
+    "209": {
+      "id": 209,
+      "answer": "T",
+      "clue_location_ids": [
+        31,
+        75
+      ]
+    },
+    "210": {
+      "id": 210,
+      "answer": "T",
+      "clue_location_ids": [
+        32,
+        63
+      ]
+    },
+    "211": {
+      "id": 211,
+      "answer": "E",
+      "clue_location_ids": [
+        32,
+        64
+      ]
+    },
+    "212": {
+      "id": 212,
+      "answer": "S",
+      "clue_location_ids": [
+        32,
+        65
+      ]
+    },
+    "213": {
+      "id": 213,
+      "answer": "S",
+      "clue_location_ids": [
+        32,
+        66
+      ]
+    },
+    "215": {
+      "id": 215,
+      "answer": "S",
+      "clue_location_ids": [
+        33,
+        68
+      ]
+    },
+    "216": {
+      "id": 216,
+      "answer": "T",
+      "clue_location_ids": [
+        33,
+        72
+      ]
+    },
+    "217": {
+      "id": 217,
+      "answer": "Y",
+      "clue_location_ids": [
+        33,
+        73
+      ]
+    },
+    "218": {
+      "id": 218,
+      "answer": "E",
+      "clue_location_ids": [
+        33,
+        67
+      ]
+    },
+    "220": {
+      "id": 220,
+      "answer": "T",
+      "clue_location_ids": [
+        34,
+        70
+      ]
+    },
+    "221": {
+      "id": 221,
+      "answer": "E",
+      "clue_location_ids": [
+        34,
+        71
+      ]
+    },
+    "222": {
+      "id": 222,
+      "answer": "S",
+      "clue_location_ids": [
+        34,
+        60
+      ]
+    },
+    "223": {
+      "id": 223,
+      "answer": "T",
+      "clue_location_ids": [
+        34,
+        74
+      ]
+    },
+    "224": {
+      "id": 224,
+      "answer": "Y",
+      "clue_location_ids": [
+        34,
+        75
+      ]
+    }
+  }
+}

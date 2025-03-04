@@ -1,0 +1,337 @@
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --text-color: #333;
+  --background-color: #f5f5f5;
+  --highlight-color: #e74c3c;
+  --progress-height: 50px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  padding-top: var(--progress-height);
+}
+
+.left-area, .right-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.05);
+  font-size: 2rem;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s;
+}
+
+.left-area:hover, .right-area:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.center-area {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  cursor: pointer;
+  overflow-y: auto;
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+.center-area.speaking {
+  background-color: rgba(52, 152, 219, 0.1);
+}
+
+.center-area.speaking::after {
+  content: '🔊';
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 24px;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  font-size: 1.5rem;
+  color: var(--secondary-color);
+}
+
+/* Screen reader only class - visually hidden but available to screen readers */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Voice control indicator */
+.voice-control-active {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: var(--highlight-color);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  z-index: 100;
+  animation: pulse 3s infinite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.voice-control-active:hover {
+  opacity: 1;
+}
+
+.voice-control-active.listening {
+  background-color: #ff5722;
+  animation: pulse 1.5s infinite;
+}
+
+.voice-control-active.listening::before {
+  content: '🎤';
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.mic-debug-button {
+  margin-top: 8px;
+  background-color: #ffffff;
+  color: #333;
+  border: none;
+  border-radius: 3px;
+  padding: 3px 8px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.mic-debug-button:hover {
+  background-color: #f0f0f0;
+}
+
+/* Voice control error */
+.voice-control-error {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #f44336;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  z-index: 100;
+  max-width: 300px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  animation: fadeInOut 5s forwards; /* Auto-hide after 5 seconds */
+  opacity: 0.9;
+}
+
+.voice-control-error p {
+  margin-top: 8px;
+  font-size: 0.9em;
+  opacity: 0.9;
+}
+
+/* Fade in and out animation for errors */
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  10% {
+    opacity: 0.9;
+    transform: translateY(0);
+  }
+  80% {
+    opacity: 0.9;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(20px);
+    visibility: hidden;
+  }
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion) {
+  * {
+    transition: none !important;
+  }
+  
+  .center-area.speaking::after,
+  .voice-control-active {
+    animation: none !important;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  :root {
+    --primary-color: #000;
+    --secondary-color: #000;
+    --text-color: #000;
+    --background-color: #fff;
+    --highlight-color: #f00;
+  }
+  
+  .left-area, .right-area {
+    background-color: #ddd;
+  }
+  
+  .left-area:hover, .right-area:hover {
+    background-color: #ccc;
+  }
+  
+  .center-area.speaking {
+    background-color: #ddd;
+  }
+  
+  .voice-control-active {
+    background-color: #000;
+    outline: 2px solid #f00;
+  }
+  
+  .controls {
+    background-color: #fff;
+    box-shadow: 0 0 0 2px #000;
+  }
+  
+  .control-button {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+  }
+  
+  .control-button.active {
+    background-color: #000;
+    color: #fff;
+    border-color: #000;
+    outline: 2px solid #f00;
+  }
+}
+
+.controls {
+  position: fixed;
+  top: 60px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+  z-index: 100;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.control-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border: 2px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.control-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.control-button:focus {
+  outline: 2px solid var(--highlight-color);
+  outline-offset: 2px;
+}
+
+.control-button.active {
+  background-color: var(--highlight-color);
+  color: white;
+  border-color: var(--highlight-color);
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 480px) {
+  .controls {
+    top: 50px; /* Slightly less space needed on mobile */
+    right: 10px;
+    gap: 8px;
+  }
+  
+  .control-button {
+    width: 36px;
+    height: 36px;
+    font-size: 1rem;
+  }
+}
+
+/* Pulse animation */
+@keyframes pulse {
+  0% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  100% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+} 

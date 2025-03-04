@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  accessible-crossword-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: accessible-crossword-app
+    restart: always
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge 
